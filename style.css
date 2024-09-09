@@ -2532,6 +2532,19 @@ a {
   height: 10vh;
 }
 
+.text-block-10 {
+  color: #fff;
+  width: 1342.03px;
+  margin-left: 10px;
+  font-family: Gagalin, sans-serif;
+  font-size: 80px;
+}
+
+.text-span {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 @media screen and (max-width: 991px) {
   .text-block-7 {
     font-size: 40px;
